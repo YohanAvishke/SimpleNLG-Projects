@@ -7,7 +7,7 @@ import simplenlg.phrasespec.*;
 import simplenlg.features.*;
 
 
-public class TestMain {
+public class HelloWorld {
 
     public static void main(String[] args) {
         Lexicon lexicon = Lexicon.getDefaultLexicon();
